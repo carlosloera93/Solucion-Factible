@@ -7,3 +7,6 @@ Write a function, persistence, that takes in a positive parameter num and return
 exercise 4
 Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 It should remove all values from list , which are present in list keeping their order.ab
+
+exercise 5
+Given two arrays and write a function (or) that checks whether the two arrays have the "same" elements, with the same multiplicities. "Same" means, here, that the elements in are the elements in squared, regardless of the order.abcomp(a, b)compSame(a, b)ba
